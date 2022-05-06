@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextFieldPractice</string>
+    <string name="required">Required</string>
+    <string name="email">Email</string>
+</resources>
